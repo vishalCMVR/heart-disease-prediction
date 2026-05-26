@@ -8,10 +8,7 @@ This project predicts the probability of heart disease based on patient health p
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed Streamlit app link here
-
-Example:
-https://github.com/vishalCMVR/heart-disease-prediction.git
+👉 [Open Web App](https://heart-disease-prediction.streamlit.app)
 
 ---
 
