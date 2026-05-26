@@ -8,7 +8,7 @@ This project predicts the probability of heart disease based on patient health p
 
 ## 🚀 Live Demo
 
-👉 [Open Web App](https://heart-disease-prediction.streamlit.app)
+👉 [Open Web App]https://heart-disease-prediction-dv7r77fzkdvkp23bhuyd3y.streamlit.app/
 
 ---
 
